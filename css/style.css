@@ -1,0 +1,27 @@
+section {
+    background-color: #f5f5dd;
+    width: 100%;
+    padding: 10px; 
+}
+
+.black {
+    background-color: rgba(0, 0, 0, 0.9);
+}
+
+.darkgrey {
+    background-color: rgba(0, 0, 0, 0.7);
+}
+
+.grey {
+    background-color: rgba(0, 0, 0, 0.5);
+}
+
+.fairgrey {
+    background-color: rgba(0, 0, 0, 0.3);
+}
+
+.square {
+    width       : 90px;
+    height          : 90px;
+    margin: 15px auto;
+}
